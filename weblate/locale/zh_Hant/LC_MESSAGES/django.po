@@ -8,23 +8,25 @@ msgstr ""
 "Project-Id-Version: Weblate 3.0\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2018-06-09 14:08+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-09-02 03:56+0000\n"
+"Last-Translator: Jan Cho <lisa693205@gmail.com>\n"
+"Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
+"demo-test/git-demo/zh_Hant/>\n"
 "Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.0.1-dev\n"
 
 #: weblate/templates/translation.html:45 weblate/trans/forms.py:1404
 msgid "Files"
-msgstr ""
+msgstr "文件"
 
 #: weblate/templates/translation.html:58 weblate/templates/translation.html:207
 #: weblate/trans/models/change.py:205
 msgid "Automatic translation"
-msgstr ""
+msgstr "自動翻譯"
 
 #: weblate/templates/translation.html:64 weblate/templates/translation.html:263
 msgid "Add new translation string"
