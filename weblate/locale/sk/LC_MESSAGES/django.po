@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Weblate 3.0\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2018-06-09 14:08+0000\n"
-"PO-Revision-Date: 2023-08-31 09:55+0000\n"
+"PO-Revision-Date: 2023-09-20 07:59+0000\n"
 "Last-Translator: Jan Cho <lisa693205@gmail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/demo-test/"
 "git-demo/sk/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.0.1-dev\n"
+"X-Generator: Weblate 5.1-dev\n"
 
 #: weblate/templates/translation.html:45 weblate/trans/forms.py:1404
 msgid "Files"
@@ -89,10 +89,6 @@ msgid ""
 msgstr ""
 
 #: weblate/templates/translation.html:284
-#, fuzzy
-#| msgid ""
-#| "Uploaded file will be merged with current translation. In case you want "
-#| "to overwrite already translated strings, don't forget to enable it."
 msgid ""
 "The uploaded file will be merged with the current translation. In case you "
 "want to overwrite already translated strings, don't forget to enable it."
@@ -101,8 +97,6 @@ msgstr ""
 "preložené reťazce, nezabudnite to povoliť."
 
 #: weblate/templates/translation.html:286
-#, fuzzy
-#| msgid "Uploaded file will be merged with current translation."
 msgid "The uploaded file will be merged with the current translation."
 msgstr "Nahraný súbor bude zlúčený s existujúcimi prekladmi."
 
